@@ -1,4 +1,4 @@
 # microservices-python
 Template for a Python project using microservices architecture.
 
-Basic demonstration using services ```Service_1```and ```Service_2```.
+Basic demonstration using services ```service_1```and ```service_2```.
